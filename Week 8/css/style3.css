@@ -1,0 +1,11 @@
+body{
+    margin: 20vh 10vw;
+}
+img{
+    height: 10vw;
+    margin: 5px;
+}
+
+.container{
+    display: flex;
+}
